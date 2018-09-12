@@ -18,6 +18,6 @@ public class GSonConverter {
     }
 
     public <T> String convertToJSon(T obj) {
-        return "Hello world";
+        return "Hello";
     }
 }
